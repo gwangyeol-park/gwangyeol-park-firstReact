@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gwangyeol-park-firstReact/static/css/main.b25162f2.css",
-    "main.js": "/gwangyeol-park-firstReact/static/js/main.3d294214.js",
-    "static/js/787.f587e8d5.chunk.js": "/gwangyeol-park-firstReact/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/gwangyeol-park-firstReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/gwangyeol-park-firstReact/index.html",
-    "main.b25162f2.css.map": "/gwangyeol-park-firstReact/static/css/main.b25162f2.css.map",
-    "main.3d294214.js.map": "/gwangyeol-park-firstReact/static/js/main.3d294214.js.map",
-    "787.f587e8d5.chunk.js.map": "/gwangyeol-park-firstReact/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "/static/css/main.b25162f2.css",
+    "main.js": "/static/js/main.ce86dc9d.js",
+    "static/js/787.f587e8d5.chunk.js": "/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b25162f2.css.map": "/static/css/main.b25162f2.css.map",
+    "main.ce86dc9d.js.map": "/static/js/main.ce86dc9d.js.map",
+    "787.f587e8d5.chunk.js.map": "/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b25162f2.css",
-    "static/js/main.3d294214.js"
+    "static/js/main.ce86dc9d.js"
   ]
 }
